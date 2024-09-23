@@ -1,4 +1,5 @@
 # Nanny Schedule Optimization Project
+#Ref-Article - https://towardsdatascience.com/data-science-at-home-solving-the-nanny-schedule-puzzle-with-monte-carlo-and-genetic-algorithms-eb4b63ada9fe
 
 ## Overview
 
